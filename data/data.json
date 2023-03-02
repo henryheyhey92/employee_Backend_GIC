@@ -1,0 +1,36 @@
+{
+  "employee_data": [
+    {
+      "firstName": "Edward",
+      "lastName": "Norton",
+      "email": "Edward@email.com",
+      "phoneNumber": "90909090",
+      "gender": "male",
+      "joinDate": "01/01/2020"
+    },
+    {
+      "firstName": "Steven",
+      "lastName": "Seagal",
+      "email": "Steven@email.com",
+      "phoneNumber": "90909999",
+      "gender": "male",
+      "joinDate": "01/02/2021"
+    },
+    {
+      "firstName": "Alexis",
+      "lastName": "Bledel",
+      "email": "Alexis@email.com",
+      "phoneNumber": "95559090",
+      "gender": "female",
+      "joinDate": "01/01/2019"
+    },
+    {
+      "firstName": "Patton",
+      "lastName": "Oswalt",
+      "email": "Patton@email.com",
+      "phoneNumber": "90456790",
+      "gender": "male",
+      "joinDate": "01/01/2019"
+    }
+  ]
+}
