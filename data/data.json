@@ -1,36 +1,58 @@
-{
-  "employee_data": [
-    {
-      "firstName": "Edward",
-      "lastName": "Norton",
-      "email": "Edward@email.com",
-      "phoneNumber": "90909090",
-      "gender": "male",
-      "joinDate": "01/01/2020"
-    },
-    {
-      "firstName": "Steven",
-      "lastName": "Seagal",
-      "email": "Steven@email.com",
-      "phoneNumber": "90909999",
-      "gender": "male",
-      "joinDate": "01/02/2021"
-    },
-    {
-      "firstName": "Alexis",
-      "lastName": "Bledel",
-      "email": "Alexis@email.com",
-      "phoneNumber": "95559090",
-      "gender": "female",
-      "joinDate": "01/01/2019"
-    },
-    {
-      "firstName": "Patton",
-      "lastName": "Oswalt",
-      "email": "Patton@email.com",
-      "phoneNumber": "90456790",
-      "gender": "male",
-      "joinDate": "01/01/2019"
-    }
-  ]
-}
+[
+  {
+    "firstName": "Gerardhaha",
+    "lastName": "Butler",
+    "email": "Gerard@gmail.com",
+    "phoneNumber": "+6589107676",
+    "gender": "Male",
+    "joinDate": "Mon Mar 06 2023 12:22:10 GMT+0800 (Singapore Standard Time)"
+  },
+  {
+    "firstName": "Dieter",
+    "lastName": "Bohlen",
+    "email": "Dieter@gmail.com",
+    "phoneNumber": "+6589111010",
+    "gender": "Male",
+    "joinDate": "05/03/2023"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Gibson",
+    "email": "Thomas@gmail.com",
+    "phoneNumber": "+6589101010",
+    "gender": "Male",
+    "joinDate": "05/03/2023"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Bieber",
+    "email": "Justin@gmail.com",
+    "phoneNumber": "+6590108991",
+    "gender": "Male",
+    "joinDate": "01/03/2023"
+  },
+  {
+    "firstName": "Edward",
+    "lastName": "Norton",
+    "email": "Edward@email.com",
+    "phoneNumber": "+6590909090",
+    "gender": "male",
+    "joinDate": "01/01/2020"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Seagal",
+    "email": "Steven@email.com",
+    "phoneNumber": "+6590909999",
+    "gender": "male",
+    "joinDate": "01/02/2021"
+  },
+  {
+    "firstName": "Alexis",
+    "lastName": "Bledel",
+    "email": "Alexis@email.com",
+    "phoneNumber": "+6595559090",
+    "gender": "female",
+    "joinDate": "01/01/2019"
+  }
+]

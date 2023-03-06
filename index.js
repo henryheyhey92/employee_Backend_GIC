@@ -26,7 +26,9 @@ async function main() {
     try {
       const data = fs.readFileSync("./data/data.json", "utf8");
       res.status(200);
-      res.json(JSON.parse(data));
+      res.json({
+        employee_data : JSON.parse(data)
+      });
     } catch (e) {
       console.log(e);
     }
